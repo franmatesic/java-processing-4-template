@@ -10,14 +10,14 @@ This project is a template for using [Processing](https://processing.org/) with 
 
 1. Download and extract latest version of Processing from https://processing.org/download
 2. Create a `lib` directory in root of this directory
-3. Copy `core.jar` from `core\library` and paste in `lib` directory
+3. Copy `core.jar` from `core\library` in downloaded folder and paste in `lib` directory
 4. [Reload Gradle project](https://www.jetbrains.com/help/idea/work-with-gradle-projects.html#gradle_refresh_project)
 
 ## Default setup (all renderers)
 
 1. Download and extract latest version of Processing from https://processing.org/download
 2. Create a `lib` and `natives` directories in root of this directory
-3. Copy `core.jar`, `gluegen-rt.jar` and `jogl-all.jar` from `core/library` and paste in `lib` directory
+3. Copy `core.jar`, `gluegen-rt.jar` and `jogl-all.jar` from `core/library` in downloaded folder and paste in `lib` directory
 4. Copy all native folders from `core\library` to `natives` directory or the specific one for your OS
 5. [Reload Gradle project](https://www.jetbrains.com/help/idea/work-with-gradle-projects.html#gradle_refresh_project)
 
